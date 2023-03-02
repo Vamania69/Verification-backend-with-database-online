@@ -1,0 +1,11 @@
+project is based on the rest api concept without a frontend to intract with and
+to get weather the project is working or no
+visit :[ localhost//apis ](http://localhost:5002/apis)
+and to create the user visit the
+visit :[ localhost//apis ](http://localhost:5002/api/users)
+with the json format with a post req.
+
+{
+"email" : "",
+"passowrd": ""
+}
