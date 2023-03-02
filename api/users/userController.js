@@ -13,6 +13,7 @@ module.exports = {
         return res.status(500).json({
           success: 0,
           message: "database conection error",
+          response: err,
         });
       }
       return res.status(200).json({
